@@ -2,6 +2,14 @@
 
 Un juego simple de reacción creado con **React + Vite**. El objetivo es hacer clic en el cuadro amarillo lo más rápido posible para medir tu tiempo de reacción.
 
+---
+
+## 📸 Captura de pantalla
+
+![Captura de pantalla](public/juego_react_img.png)
+
+---
+
 ## 🚀 Funcionalidades
 
 - ⏳ **Tiempo aleatorio:** El cuadro cambia a amarillo entre 3 y 7 segundos.
@@ -33,11 +41,19 @@ Un juego simple de reacción creado con **React + Vite**. El objetivo es hacer c
    ```bash
    npm start
    ```
+   
+---
 
-## 📸 Captura de pantalla
+Deployed: [https://cuyssi.github.io/juego-react/]
 
-![Captura de pantalla](public/juego_react_img.png)
+---
 
+📫 Cómo contactarme
+
+- Correo: [[cuyssi@hotmail.com](mailto:cuyssi@hotmail.com)]
+- LinkedIn: [Ana] ([https://www.linkedin.com/in/ana-castro-a476b8346/](https://www.linkedin.com/in/ana-castro-a476b8346/))
+- 
+---
 
 ## 🌟 Any
 Realizado con ❤️.
